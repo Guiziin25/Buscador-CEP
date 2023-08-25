@@ -8,7 +8,7 @@ body {
     margin: 0 auto;
     width: 100%;
     max-width: 440px;
-    background: #fff;
+    background-image: linear-gradient(to bottom, rgb(0, 110, 255), rgb(1, 207, 243), rgb(0, 238, 255));
     border-radius: 8px;
     height: auto;
     padding: 20px;
@@ -30,6 +30,10 @@ body {
     border: 1px solid #ccc;
     height: 25px;
     font-size: 1.2rem;
+}
+
+.btn {
+    color: #ffffff;
 }
 
 li {
